@@ -27,7 +27,7 @@
   
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a></p>
 <hr>
-<p><img style="margin-right: 30px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=pragya7156&show_icons=true&text_color=ffffff&bg_color=151515&locale=en&layout=compact" alt="pragya7156" /> <img src="https://github-readme-stats.vercel.app/api?username=pragya7156&show_icons=true&text_color=ffffff&bg_color=151515&locale=en" alt="pragya7156" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pragya7156&show_icons=true&text_color=ffffff&bg_color=151515&locale=en&layout=compact" alt="pragya7156" /> <img src="https://github-readme-stats.vercel.app/api?username=pragya7156&show_icons=true&text_color=ffffff&bg_color=151515&locale=en" alt="pragya7156" /></p>
 
 
 
