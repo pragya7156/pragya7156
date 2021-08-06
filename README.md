@@ -3,7 +3,7 @@
 <h1 align="left">Hi 👋, I'm Pragya Singh</h1>
 <h3 align="left">Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pragya7156&label=Profile%20views&color=0e75b6&style=flat" alt="pragya7156" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragya7156&label=Profile%20views&color=0e75b6&style=flat" alt="pragya7156" /> </p> -->
 
 - 🔭 I’m currently working on upgrading my skills.
 - 🌱 I’m currently learning Data Structures and Algorithms.
@@ -27,7 +27,9 @@
   
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a></p>
 <hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pragya7156&show_icons=true&text_color=ffffff&bg_color=151515&locale=en&layout=compact" alt="pragya7156" /></p>  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=pragya7156&show_icons=true&text_color=ffffff&bg_color=151515&locale=en" alt="pragya7156" /></p>
+<div style={display: "inline-flex"}>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pragya7156&show_icons=true&text_color=ffffff&bg_color=151515&locale=en&layout=compact" alt="pragya7156" /></p>  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=pragya7156&show_icons=true&text_color=ffffff&bg_color=151515&locale=en" alt="pragya7156" /></p>
+  </div>
 
 
 
