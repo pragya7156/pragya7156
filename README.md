@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on upgrading my skills.
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 👯 I’m looking to collaborate on ReactJS.
-- 🤝 I’m looking for help with user authentication and authorization.
+- 🤝 I’m looking for help with AWS, user authentication and authorization.
 - 📫 How to reach me pragyapriya0703@gmail.com
 
 <h3 align="left">Connect with me:</h3>
